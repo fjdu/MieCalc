@@ -16,4 +16,5 @@ Simply run ```make``` from the command line.
 
 ## Usage
 
-See examples in the ipython notebook ```20140514-dust-refractive-index.ipynb```.
+See examples in the ipython notebook ```20140514-dust-refractive-index.ipynb``` at
+[this url](http://nbviewer.ipython.org/github/fjdu/MieCalc/blob/master/20140514-dust-refractive-index.ipynb).
